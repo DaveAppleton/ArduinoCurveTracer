@@ -1,6 +1,12 @@
-
-float r1 = 100104.0;
-float r2 = 984.0;
+//
+// curveTracingNo2 (c) 2014 David Appleton
+//
+// for Transistor curve TRacer at ioblocks.blogspot.com
+//
+// This code is subject to the MIT LICENCE
+//
+// http://opensource.org/licenses/MIT
+//
 
 
 void setup() {
